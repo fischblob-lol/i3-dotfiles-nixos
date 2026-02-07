@@ -1,11 +1,11 @@
 ! ! fonts, padding, scrollback, clipboard tweaks included
 !
 XTerm*foreground:          #d2dadd
-XTerm*background:          #080504
+XTerm*background:          #24273a
 XTerm*cursorColor:         #d2dadd
 !
 ! 16 color palette
-XTerm*color0:   #080504
+XTerm*color0:   #24273a
 XTerm*color1:   #85784D
 XTerm*color2:   #728476
 XTerm*color3:   #9D945F
@@ -36,7 +36,7 @@ XTerm*vt100.internalBorder:    35
 XTerm*internalBorder:          35
 XTerm*borderWidth:             0
 XTerm*colorInnerBorder:        true
-XTerm*borderColor:             #080504
+XTerm*borderColor:             #24273a
 
 ! scrollback and behavior
 XTerm*saveLines:          10000
@@ -56,10 +56,8 @@ XTerm*allowWindowOps:     false
 
 XTerm*shading: 0
 
-*.color0:   #080504
 
-
-*.color0:   #080504
+*.color0:   #24273a
 *.color1:   #85784D
 *.color2:   #728476
 *.color3:   #9D945F
