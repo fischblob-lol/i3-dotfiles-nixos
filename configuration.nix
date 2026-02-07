@@ -97,6 +97,7 @@ programs.virt-manager.enable = true;
       git
       alacritty
       pulseaudio
+      vscodium
       pavucontrol
       papirus-icon-theme
       fastfetch
