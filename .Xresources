@@ -1,0 +1,77 @@
+! ! fonts, padding, scrollback, clipboard tweaks included
+!
+XTerm*foreground:          #d2dadd
+XTerm*background:          #080504
+XTerm*cursorColor:         #d2dadd
+!
+! 16 color palette
+XTerm*color0:   #080504
+XTerm*color1:   #85784D
+XTerm*color2:   #728476
+XTerm*color3:   #9D945F
+XTerm*color4:   #73908E
+XTerm*color5:   #9BA9A5
+XTerm*color6:   #B5BFBC
+XTerm*color7:   #d2dadd
+XTerm*color8:   #93989a
+XTerm*color9:   #85784D
+XTerm*color10:  #728476
+XTerm*color11:  #9D945F
+XTerm*color12:  #73908E
+XTerm*color13:  #9BA9A5
+XTerm*color14:  #B5BFBC
+XTerm*color15:  #d2dadd
+
+! font (use faceName / faceSize to match kitty)
+! XTerm*faceName:            CozetteVector
+! XTerm*faceSize:            12
+XTerm*faceName: VictorMono Nerd Font
+XTerm*faceSize: 18 
+XTerm*renderFont:          true
+XTerm*allowBoldFonts:      true
+XTerm*BoldFont:            auto
+
+! padding / borders
+XTerm*vt100.internalBorder:    35
+XTerm*internalBorder:          35
+XTerm*borderWidth:             0
+XTerm*colorInnerBorder:        true
+XTerm*borderColor:             #080504
+
+! scrollback and behavior
+XTerm*saveLines:          10000
+XTerm*scrollBar:          false
+XTerm*loginShell:         true
+
+! clipboard / paste behavior
+XTerm*selectToClipboard:       true
+XTerm*allowPasteControls:      false
+! tweak disallowed paste chars if you want - leave default unless needed
+! XTerm*disallowedPasteControls:
+
+! visual / misc
+XTerm*dynamicColors:      true
+XTerm*metaSendsEscape:    true
+XTerm*allowWindowOps:     false
+
+XTerm*shading: 0
+
+*.color0:   #080504
+
+
+*.color0:   #080504
+*.color1:   #85784D
+*.color2:   #728476
+*.color3:   #9D945F
+*.color4:   #73908E
+*.color5:   #000000
+*.color6:   #000000
+*.color7:   #000000
+*.color8:   #000000
+*.color9:   #85784D
+*.color10:  #728476
+*.color11:  #9D945F
+*.color12:  #73908E
+*.color13:  #000000
+*.color14:  #000000
+*.color15:  #000000
