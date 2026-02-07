@@ -5,3 +5,5 @@ I havent made the dotfiles yet lol
 + Contributing
   im new to github i have no idea
   
++ notes
+  i highly recommend using oh my posh catppuccin mocha theme!!! it will make xterm look MUCH MUCH better
