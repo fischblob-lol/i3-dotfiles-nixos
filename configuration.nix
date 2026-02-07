@@ -1,4 +1,3 @@
-# You should know what to do before doing ANYTHING with this file. / Du sollst wissen was du machst bevor du IRGENDWAS etwas macht mit dieser Datei.
 { config, pkgs, ... }:
 
 {
